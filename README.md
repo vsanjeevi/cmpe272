@@ -11,8 +11,8 @@ Reference [MicroBlog](https://blog.miguelgrinberg.com/post/the-flask-mega-tutori
 ## Deployment
 
 ```
-* (venv) $ export FLASK_APP=microblog.py
-* (venv) $ sudo bash
-* (venv) root $ . venv/bin/activate
-* (venv) root $ flask run --host=0.0.0.0 --port=80
+(venv) $ export FLASK_APP=microblog.py
+(venv) $ sudo bash
+(venv) root $ . venv/bin/activate
+(venv) root $ flask run --host=0.0.0.0 --port=80
 ```
