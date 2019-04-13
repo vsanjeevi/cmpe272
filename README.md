@@ -6,8 +6,8 @@ Progressive Project for CMPE272
 ### Running Code from command line
 Defaulting to 
 ```
-* (venv) $ export FLASK_APP=microblog.py
-* (venv) $ sudo bash
-* (venv) root $ . venv/bin/activate
-* (venv) root $ flask run --host=0.0.0.0 --port=80
+(venv) $ export FLASK_APP=microblog.py
+(venv) $ sudo bash
+(venv) root $ . venv/bin/activate
+(venv) root $ flask run --host=0.0.0.0 --port=80
 ```
