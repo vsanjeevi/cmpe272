@@ -1,17 +1,23 @@
-# cmpe272
+# CMPE 272 - Enterprise SW Platforms
 Progressive Project for CMPE272 
+Team Warriors 
+Team Members:
+* Pradeep 
+* Sanjeevi
+* Senthil
+* Yuva
 
-# LearnFlask 
-## Purpose 
+## LearnFlask 
+### Purpose 
 Learning to build and deploy Flask based webserver using web example
 
-## Reference
+### Reference
 Reference [MicroBlog](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Building a Simple Web Server using Flask
 
-## Built With
+### Built With
 * [Flask](https://www.palletsprojects.com/) - The web framework used
 
-## Deployment
+### Deployment
 
 ```
 (venv) $ export FLASK_APP=microblog.py
