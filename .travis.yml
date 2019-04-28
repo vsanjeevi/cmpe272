@@ -3,5 +3,6 @@ python:
   - "3.4"
 install:
     - "pip install mongomock"
+    - "pip install pymongo"    
 script:
   - "python test_list_books.py"
