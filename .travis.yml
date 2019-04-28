@@ -2,4 +2,4 @@ language: python
 python:
   - "3.4"
 script:
-  - test_list_books.py
+  - python test_list_books.py
