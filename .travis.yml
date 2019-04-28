@@ -5,6 +5,7 @@ install:
     - "pip install mongomock"
     - "pip install pprint"
     - "pip install bson"    
-    - "pip install pymongo"    
+    - "pip install pymongo"  
+    - "pip install dnspython"
 script:
   - "python list_books_qty_from_atlas.py"
