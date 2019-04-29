@@ -17,7 +17,7 @@ class DBTests(unittest.TestCase):
 
 	def test_cust_add(self):
 		ret=popsample.add_cust(self.db,self.cust_rec1)
-		print("Added Customer with ID --",ret.inserted_ids)
+		print("Populated Customers data with IDs --",ret.inserted_ids)
 		self.assertEqual(len(ret.inserted_ids), 5)
 		
 
