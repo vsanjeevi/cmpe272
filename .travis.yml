@@ -11,6 +11,7 @@ script:
   - "python pop-sample-unittest.py"
   - "python test_list_books.py"
   - "python add-customer-unittest.py"
+  - "python order-unittest.py"
 
 notifications:
   email:
