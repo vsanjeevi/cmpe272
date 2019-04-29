@@ -19,3 +19,7 @@ class DBTests(unittest.TestCase):
         books = list_books.get_available_books(self.db)
         self.assertEqual(len(books), 1)
         print(books)
+        
+        
+if __name__ == "__main__":
+            unittest.main()
