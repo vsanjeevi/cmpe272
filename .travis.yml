@@ -9,4 +9,4 @@ install:
     - "pip install dnspython"
 script:
   - "python test_list_books.py"
-  - "python list_books_qty_from_atlas.py"
+  - "python add-customer-unittest.py"
